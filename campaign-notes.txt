@@ -1,0 +1,26 @@
+SUBJECT
+All Things | Your Daily Devotion for September 29
+
+PREHEADER
+All things work together for good to those who love God. Read today's devotion from World Harvest Church and watch the latest Rod Parsley Podcast.
+
+DESIGN
+Display font: Georgia, with Times New Roman fallback
+Body font: Calibri, with Arial fallback
+Style: dark WHC editorial layout
+Colors: near-black, deep plum, WHC purple, lavender, and warm white
+Primary church link: https://whc.life/
+
+PODCAST LINKS
+Latest episode: https://youtu.be/rFERDs0NF4c?is=38rDG5cv5GAPxAqP
+Apple Podcasts: https://itunes.apple.com/us/podcast/rod-parsleys-podcast/id1309353409?mt=2
+Spotify: https://open.spotify.com/show/1y4AKRPyLmhxXQKfraie8p?si=47Q_G6WgRKKM9SJTAC8OYg
+YouTube: https://www.youtube.com/@rodparsley
+
+SOCIAL LINKS
+Facebook: https://www.facebook.com/whclife
+Instagram: https://www.instagram.com/whclife
+YouTube: https://www.youtube.com/@rodparsley
+
+EMAIL CLIENT SETUP
+Open index.html in a browser, select the rendered email, and paste it into the email client's rich-text composer. The template uses table layout, inline core styles, public HTTPS images, explicit image dimensions, and Outlook-safe button padding. Media queries improve the mobile layout in clients that support them; clients that remove head styles retain a readable desktop layout.
