@@ -4,8 +4,8 @@ This repository contains the World Harvest Church branded version of the Septemb
 
 The design follows the current visual system at `https://our.whc.life/`:
 
-- near-black and deep-plum backgrounds
-- WHC purple and lavender accents
+- soft lavender page background with white content cards
+- WHC purple accents and pale-lavender section dividers
 - the official WHC wheat mark
 - Georgia display headings inspired by the site's Playfair Display typography
 - Calibri body copy for broad email-client support
@@ -14,6 +14,7 @@ The design follows the current visual system at `https://our.whc.life/`:
 - text-only Apple Podcasts, Spotify, and YouTube listening links
 - WHC Facebook, Instagram, and YouTube social links
 - World Harvest Church calls to action linked to `https://whc.life/`
+- clearly separated devotion, podcast, episode, listening, and social sections
 
 Files:
 

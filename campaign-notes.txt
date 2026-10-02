@@ -7,8 +7,8 @@ All things work together for good to those who love God. Read today's devotion f
 DESIGN
 Display font: Georgia, with Times New Roman fallback
 Body font: Calibri, with Arial fallback
-Style: dark WHC editorial layout
-Colors: near-black, deep plum, WHC purple, lavender, and warm white
+Style: light WHC editorial layout with clearly separated sections
+Colors: soft lavender, white, WHC purple, deep violet text, and pale-purple borders
 Primary church link: https://whc.life/
 
 PODCAST LINKS
