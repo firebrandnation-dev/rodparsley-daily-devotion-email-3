@@ -15,6 +15,7 @@ The design follows the current visual system at `https://our.whc.life/`:
 - WHC Facebook, Instagram, and YouTube social links
 - World Harvest Church calls to action linked to `https://whc.life/`
 - clearly separated devotion, podcast, episode, listening, and social sections
+- a top-level `Play Latest Devotion` button linked to the featured YouTube episode
 
 Files:
 
